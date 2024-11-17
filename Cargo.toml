@@ -23,7 +23,7 @@ indexmap = "2.2.6"
 [dependencies.serenity]
 default-features = false
 features = ["builder", "gateway", "model", "utils", "collector", "framework"]
-git = "https://github.com/serenity-rs/serenity"
+git = "https://github.com/Anti-Raid/serenity"
 branch = "next"
 
 [dev-dependencies]
